@@ -1,0 +1,6 @@
+{
+  "PORT": 5000,
+  "mongoURI": "mongodb+srv://D9m0n:1234qwer@cluster0.ve2ld.mongodb.net/app?retryWrites=true&w=majority",
+  "JWT_SECRET": "jd901[912faf",
+  "BASE_URL": "http://localhost:5000"
+}
